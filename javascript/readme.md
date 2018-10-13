@@ -1,6 +1,6 @@
 # JavaScript
 
-- [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
+## [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
 
 An exhaustive series of books on JavaScript by [Kyle Simpson](https://twitter.com/getify)
 

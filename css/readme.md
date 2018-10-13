@@ -1,6 +1,6 @@
 # CSS
 
-- [Scalable CSS](http://mrmrs.cc/writing/2016/03/24/scalable-css/)
+## [Scalable CSS](http://mrmrs.cc/writing/2016/03/24/scalable-css/)
 
 I really enjoy using tachyons - a functional css library built by the author [Adam Morse](https://twitter.com/mrmrs_) and this article is a great insight into the problems of writing css at scale and the arguments for a different method.
 
